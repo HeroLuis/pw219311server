@@ -1,0 +1,17 @@
+body{
+	border: 1px solid red;
+	margin: 0px auto;
+	max-width: 1024px;
+}
+
+
+
+
+selectores
+	pseudoelemento
+	etiqueta{
+			atributo valor;
+		}
+	id
+	clase
+	media query
